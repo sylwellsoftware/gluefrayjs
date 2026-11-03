@@ -80,7 +80,7 @@
   },
   "devDependencies": {
     "@sylwellsoftware/glue": "workspace:^",
-    "vite": "^6.3.5"
+    "vite": "^6.4.5"
   },
   "engines": {
     "node": ">=22",
